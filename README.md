@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ae9d292b-b801-4b4d-a07b-572a52609775/deploy-status)](https://app.netlify.com/sites/belajarecmascript/deploys)
+
 # Website
 
 Belajar Ecmascript dibuat dengan [Docusaurus 2](https://v2.docusaurus.io/)
